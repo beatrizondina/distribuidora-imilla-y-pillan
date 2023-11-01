@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@300&family=Indie+Flower&display=swap');
+
+p { 
+     font-family: 'Indie Flower', cursive;
+    
+}
+
+
+h1 {
+    font-family: 'Gluten', cursive;
+    
+     }
+
+
+.header{ 
+    display: flex;
+    padding: 15px 10px;
+    color: blueviolet; 
+    background-color: rgb(233, 211, 11);
+    gap: 15rem;
+   align-items: center;
+    
+}
+ 
+.menu-item{
+    
+   list-style-type: none;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline;
+    gap: 15rem;
+    text-align: right;
+    display: inline-block;
+    
+}
+
+.gato-perro1{
+    background-position: left;
+    width: 400px;
+    height: 500 px;
+
+ }
+
+.gato-perro1-2 { 
+    color: red;
+    font-size: 32px;
+
+}
+
+h2{         
+    color: red;
+    font-family: 'Indie Flower', cursive; 
+    font-size: 30px;
+}
+
+
+
+
+
+    
